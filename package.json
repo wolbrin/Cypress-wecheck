@@ -1,0 +1,15 @@
+{
+  "name": "cypress-wecheck",
+  "version": "1.0.0",
+  "description": "This project contains end-to-end tests for a Todo App using Cypress.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^13.13.1"
+  }
+}
